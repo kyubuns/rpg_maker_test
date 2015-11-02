@@ -2,7 +2,7 @@
 GitHub Pagesでそのままゲームを遊べるようにしてみる。
 
 * Qiitaに詳細書きました↓
-** http://qiita.com/kyubuns/items/c804acdceff0840e61ca
+ * http://qiita.com/kyubuns/items/c804acdceff0840e61ca
 
 ```
 made with RPGツクールMV
